@@ -1,0 +1,17 @@
+caw = poista sana kursorin alapuolel ja laita insert (kopioi myös)
+dd = poista rivi tai highlaitattu alue
+r = korvaa yksi merkki
+v = visual (hjkl)
+V = visual (mut vaa ylös ja alas)
+shift+a = insert mut rivin loppuun 
+shift+s = insert mut poistaa rivin
+x = poistaa yhden merkin
+u = undo
+ctrl + 0 = normal mode for 1 cmnd
+gg = top of the file
+shift + g = btm of the file
+0 = vasen reuna
+$ = oikea reuna ????
+> = syvennä valitut rivit
+w ja a = liiku 1 sana eteenpäin/taaksepäin
+
